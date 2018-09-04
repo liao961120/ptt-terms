@@ -1,4 +1,4 @@
-#!/home/liao/Desktop/PTT-scrapy/bin/python
+#!/home/liao/PTT-scrapy/bin/python
 
 import sys
 import getopt

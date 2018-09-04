@@ -1,0 +1,1918 @@
+{
+  "author": [
+    "lucky1999219 (原來你是我最想留住的)"
+  ],
+  "title": [
+    "[新聞] 對手頻頻指控　林佳龍：將正式對抹黑者"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:38:43 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[新聞]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050326.A.4C5.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:55"
+  ]
+}
+{
+  "author": [
+    "ronray7799 (生而為人超爽der)"
+  ],
+  "title": [
+    "[問卦] 把有價值木頭全砍光了會怎樣？"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:46:53 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[問卦]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050816.A.3ED.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:56"
+  ]
+}
+{
+  "author": [
+    "fireheart988 (小布丁)"
+  ],
+  "title": [
+    "[協尋]  8/28傍晚台中大里行車記錄器"
+  ],
+  "datetime": [
+    "Fri Aug 31 23:47:37 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[協尋]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1535730461.A.69D.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:56"
+  ]
+}
+{
+  "author": [
+    "jackaliao (差不多先生)"
+  ],
+  "title": [
+    "[協尋] 8/27 AM8:00左 新莊IKEA附近行車記錄器 "
+  ],
+  "datetime": [
+    "Mon Aug 27 23:17:27 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[協尋]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1535383050.A.110.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:56"
+  ]
+}
+{
+  "author": [
+    "qweewqq (風一樣的男子)"
+  ],
+  "title": [
+    "[新聞] 東奧正名影響參賽權？運動員盼能參賽"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:46:46 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[新聞]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050808.A.5D5.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:56"
+  ]
+}
+{
+  "author": [
+    "girl55665566 (支持同志友善)"
+  ],
+  "title": [
+    " [公告] 八卦板主罷免案投票現況說明"
+  ],
+  "datetime": [
+    "Mon Sep  3 19:32:53 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1535974381.A.F83.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:56"
+  ]
+}
+{
+  "author": [
+    "med5566 (美德5566)"
+  ],
+  "title": [
+    "Re: [新聞] 櫻桃子罹癌10年「只告訴小玉」兒上國中才"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:46:26 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "Re"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050789.A.C5C.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:56"
+  ]
+}
+{
+  "author": [
+    "RandyMarsh (同志友善の屎蛋爸)"
+  ],
+  "title": [
+    "[公告] 九月份置底閒聊文"
+  ],
+  "datetime": [
+    "Sat Sep  1 01:00:35 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[公告]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1535734845.A.C71.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:56"
+  ]
+}
+{
+  "author": [
+    "wertabcmk (學店魯宅)"
+  ],
+  "title": [
+    "[問卦] 之前基隆那位警察安全下莊了嗎？"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:46:09 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[問卦]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050772.A.64D.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:56"
+  ]
+}
+{
+  "author": [
+    "Kay731 (K少)"
+  ],
+  "title": [
+    "[公告] 八卦板板規(2017.11.11)"
+  ],
+  "datetime": [
+    "Sat Nov 11 23:55:13 2017"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[公告]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1510415718.A.D77.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:56"
+  ]
+}
+{
+  "author": [
+    "KKKKJAY (KJ)"
+  ],
+  "title": [
+    "[新聞] 英德讚聲 姚文智進步有目共睹"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:45:59 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[新聞]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050762.A.7D3.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:56"
+  ]
+}
+{
+  "author": [
+    "a1234a123499 (alah)"
+  ],
+  "title": [
+    "[問卦] 正晶有沒有可能是臥底節目？"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:46:55 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[問卦]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050821.A.02A.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:56"
+  ]
+}
+{
+  "author": [
+    "chevalerie (DD)"
+  ],
+  "title": [
+    "[問卦] 這個老師教很爛欸"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:45:55 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[問卦]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050758.A.CEF.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:56"
+  ]
+}
+{
+  "author": [
+    "str8g ()"
+  ],
+  "title": [
+    "[新聞] 平日199還是沒人來　墾丁首家背包客棧月"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:45:52 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[新聞]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050756.A.7D1.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:56"
+  ]
+}
+{
+  "author": [
+    "sOwAt (nothing)"
+  ],
+  "title": [
+    "Re: [新聞] 柯P要吳音寧有事進市府討論 不要每天"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:45:21 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "Re"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050723.A.57C.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:56"
+  ]
+}
+{
+  "author": [
+    "rixuro (奇人高士)"
+  ],
+  "title": [
+    "[ＦＢ] 劉靜怡 覺青漏翻重點還好意思取笑洪蘭"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:44:33 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[ＦＢ]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050676.A.20A.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:56"
+  ]
+}
+{
+  "author": [
+    "luckyalbert (幸運知音)"
+  ],
+  "title": [
+    "Re: [新聞] 七瀨戀再見！《夜勤病棟》開發公司Mink"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:43:38 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "Re"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050621.A.AD5.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:56"
+  ]
+}
+{
+  "author": [
+    "Lorazin (Lorazin)"
+  ],
+  "title": [
+    "Re: [問卦] 家裡窮又沒考上醫生怎麼辦"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:44:13 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "Re"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050655.A.BC8.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:56"
+  ]
+}
+{
+  "author": [
+    "inglee (~一事無成千古恨~)"
+  ],
+  "title": [
+    "[新聞] 東奧正名52萬份連署 丁守中：只是自爽"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:41:56 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[新聞]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050518.A.D03.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:56"
+  ]
+}
+{
+  "author": [
+    "s910211 (我愛PTT)"
+  ],
+  "title": [
+    "[問卦] 今天關西地區有停班停課嗎？"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:41:32 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[問卦]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050494.A.092.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:57"
+  ]
+}
+{
+  "author": [
+    "ccps970915 (冠)"
+  ],
+  "title": [
+    "[問卦]蒙古城快vs 匈奴馬雅中國有優勢嗎"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:38:42 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[問卦]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050324.A.767.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:57"
+  ]
+}
+{
+  "author": [
+    "AESA (AESA)"
+  ],
+  "title": [
+    "[新聞] 外界質疑 吳祥輝背後金主可能是民進黨"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:37:55 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[新聞]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050278.A.31F.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:57"
+  ]
+}
+{
+  "author": [
+    "bond30422 (Bond)"
+  ],
+  "title": [
+    "Re: [ＦＢ] 呱吉-中天的業配費用"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:37:50 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "Re"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050273.A.518.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:57"
+  ]
+}
+{
+  "author": [
+    "ptt9999 (ptt999)"
+  ],
+  "title": [
+    "Re: [新聞] 女生洗澡如廁都偷拍！婚攝遭逮下跪求：別"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:37:49 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "Re"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050271.A.42C.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:57"
+  ]
+}
+{
+  "author": [
+    "saz (SAZ)"
+  ],
+  "title": [
+    "[問卦] 有人知道這是什麼蟲嗎 超小"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:37:29 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[問卦]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050251.A.CAA.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:57"
+  ]
+}
+{
+  "author": [
+    "rainbowcrash (洋)"
+  ],
+  "title": [
+    "[問卦] 有沒有八方蒲瓜水餃鍋貼的八卦"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:37:23 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[問卦]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050245.A.0FA.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:57"
+  ]
+}
+{
+  "author": [
+    "cosmite (K)"
+  ],
+  "title": [
+    "Re: [新聞] 外媒讚「垃圾處理天才」，台灣廢棄物回"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:36:24 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "Re"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050187.A.E4F.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:57"
+  ]
+}
+{
+  "author": [
+    "wwer0916 (wwer0916)"
+  ],
+  "title": [
+    "Re: [新聞] 台南豪大雨衝擊 道路炸出2045個大小坑洞"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:36:35 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "Re"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050198.A.07E.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:57"
+  ]
+}
+{
+  "author": [
+    "howard50407 (howard50407)"
+  ],
+  "title": [
+    "[問卦] 有沒有不敢關瓦斯的八卦"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:35:50 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[問卦]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050153.A.B19.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:57"
+  ]
+}
+{
+  "author": [
+    "joug (好東西不簽嗎)"
+  ],
+  "title": [
+    "[新聞] 七瀨戀再見！《夜勤病棟》開發公司Mink"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:35:38 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[新聞]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050143.A.E8F.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:57"
+  ]
+}
+{
+  "author": [
+    "PanzerDragoo (Howlu)"
+  ],
+  "title": [
+    "Re: [爆卦] Ethan Gutmann一年前幫柯做的澄清"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:35:27 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "Re"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050130.A.3D7.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:57"
+  ]
+}
+{
+  "author": [
+    "uwobu (劫貧濟富)"
+  ],
+  "title": [
+    "[新聞] 拒檢逃逸遭開7罰單　女貼文罵警「X你娘X"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:38:28 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[新聞]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050311.A.77B.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:57"
+  ]
+}
+{
+  "author": [
+    "za2205 (給我一杯藍山)"
+  ],
+  "title": [
+    "[問卦] 不小心回到四年前要做什麼的卦？"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:35:11 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[問卦]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050113.A.8EC.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:57"
+  ]
+}
+{
+  "author": [
+    "alexenderpp (亞歷山大)"
+  ],
+  "title": [
+    "[問卦] 台大藥學系的最佳出路是？"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:34:52 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[問卦]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050094.A.F86.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:57"
+  ]
+}
+{
+  "author": [
+    "TigerLily ()"
+  ],
+  "title": [
+    "Re: [ＦＢ] 政經澄清 四年前幫柯護航是因為被他騙"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:34:48 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "Re"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050090.A.B4B.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:57"
+  ]
+}
+{
+  "author": [
+    "lupefan4eva (LupeFan4Eva)"
+  ],
+  "title": [
+    "[問卦] 是不是每個T，背後都有故事原因？"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:32:34 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[問卦]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536049956.A.0EF.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:57"
+  ]
+}
+{
+  "author": [
+    "c3035281 (:::::>_<:::::)"
+  ],
+  "title": [
+    "[問卦] 鐵道宅是不是宅宅裡面的翹楚??"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:32:17 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[問卦]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536049942.A.7B5.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:57"
+  ]
+}
+{
+  "author": [
+    "siriusc (超大型男童)"
+  ],
+  "title": [
+    "Re: [新聞] 遊客雪崩下跌4年少400萬 「墾丁就是貴」"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:31:32 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "Re"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536049895.A.283.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:57"
+  ]
+}
+{
+  "author": [
+    "alepp123 (等差級數)"
+  ],
+  "title": [
+    "[問卦] 這是什麼蟲？"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:31:11 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[問卦]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536049873.A.A0E.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:57"
+  ]
+}
+{
+  "author": [
+    "cores (24番)"
+  ],
+  "title": [
+    "[問卦] 中國地方債40兆還不了為啥還大撒幣給非洲"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:31:00 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[問卦]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536049870.A.435.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:57"
+  ]
+}
+{
+  "author": [
+    "kaky (菩提本無樹明鏡亦非台)"
+  ],
+  "title": [
+    "Re: [ＦＢ] 石明謹 公投會讓選手無法比賽？"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:41:10 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "Re"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050471.A.75C.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:57"
+  ]
+}
+{
+  "author": [
+    "smalltwo (獎金獵人)"
+  ],
+  "title": [
+    "Re: [ＦＢ] 政經澄清 四年前幫柯護航是因為被他騙"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:40:21 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "Re"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050423.A.6FB.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:57"
+  ]
+}
+{
+  "author": [
+    "Neverfor (八卦蟑螂)"
+  ],
+  "title": [
+    "[問卦] 牽手護墾丁"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:39:26 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[問卦]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050368.A.CE3.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:58"
+  ]
+}
+{
+  "author": [
+    "yuzukineko (閃亮三叔公)"
+  ],
+  "title": [
+    "[新聞] 被吳祥輝影射器官移植掮客 柯P酸：是姚人"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:39:22 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[新聞]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050365.A.FE5.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:58"
+  ]
+}
+{
+  "author": [
+    "pulato16 (茶裏后)"
+  ],
+  "title": [
+    "Re: [新聞] 檢察官到幼兒園耍官威 事後懊悔挽救不了"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:40:00 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "Re"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536050402.A.DB5.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:58"
+  ]
+}
+{
+  "author": [
+    "huigo (huigo)"
+  ],
+  "title": [
+    "Re: [ＦＢ] 吳祥輝：柯文哲的事我就慢慢告"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:23:28 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "Re"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536049410.A.8CD.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:58"
+  ]
+}
+{
+  "author": [
+    "realtw (realtw有5萬家中國餐廳)"
+  ],
+  "title": [
+    "[問卦] 台劇再不努力就被陸劇追上了？"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:30:34 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[問卦]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536049839.A.61E.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:58"
+  ]
+}
+{
+  "author": [
+    "smileboy2016 (hahaha)"
+  ],
+  "title": [
+    "Re: [新聞] 遊客雪崩下跌4年少400萬 「墾丁就是貴」"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:29:24 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "Re"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536049766.A.29A.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:58"
+  ]
+}
+{
+  "author": [
+    "GabeHypnos (我愛吳姍儒!!!)"
+  ],
+  "title": [
+    "[問卦] 鞏俐姊姊的腳是否有味？"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:30:51 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[問卦]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536049854.A.2B6.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:58"
+  ]
+}
+{
+  "author": [
+    "JennyQueen (Jenny Queen)"
+  ],
+  "title": [
+    "Re: [問卦] 欸！歷史上哪場屠殺最有名？"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:30:57 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "Re"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536049859.A.160.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:58"
+  ]
+}
+{
+  "author": [
+    "nook777 (一加一)"
+  ],
+  "title": [
+    "[問卦] 肥宅如果組織創黨，要取什麼黨名??"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:29:05 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[問卦]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536049747.A.FCE.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:58"
+  ]
+}
+{
+  "author": [
+    "mornlunar (Hav-A-Tampa)"
+  ],
+  "title": [
+    "[ＦＢ] 黃偉哲:偉哲GO！趕快來留言 跟著偉哲出發"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:28:26 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[ＦＢ]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536049709.A.853.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:58"
+  ]
+}
+{
+  "author": [
+    "sole772pk37 (咬我阿豬)"
+  ],
+  "title": [
+    "[問卦] 貓貓這樣坐是什麼意思？"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:28:22 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[問卦]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536049704.A.18E.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:58"
+  ]
+}
+{
+  "author": [
+    "yu1164 (眼前的黑不是黑)"
+  ],
+  "title": [
+    "[問卦]  Money Money Money~~"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:28:14 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[問卦]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536049697.A.E98.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:58"
+  ]
+}
+{
+  "author": [
+    "LoveMakeLove (愛製造愛)"
+  ],
+  "title": [
+    "[問卦]  宋朝水滸傳那群8＋9怎麼紋身的八卦？"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:28:00 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[問卦]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536049683.A.10E.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:58"
+  ]
+}
+{
+  "author": [
+    "drea (星空下的背影)"
+  ],
+  "title": [
+    "Re: [新聞] 外媒讚「垃圾處理天才」，台灣廢棄物回"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:27:07 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "Re"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536049630.A.8E5.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:58"
+  ]
+}
+{
+  "author": [
+    "bulss555 (桃園大痴翰)"
+  ],
+  "title": [
+    "[問卦] 植木的法則算神作嗎？"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:26:48 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[問卦]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536049611.A.C2C.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:58"
+  ]
+}
+{
+  "author": [
+    "JPChinbotsu (滯台支那人/皇民終結者)"
+  ],
+  "title": [
+    "Re: [ＦＢ] 石明謹 公投會讓選手無法比賽？"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:27:01 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "Re"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536049626.A.CEC.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:58"
+  ]
+}
+{
+  "author": [
+    "miler22020 (orz)"
+  ],
+  "title": [
+    "Re: [ＦＢ] 石明謹 公投會讓選手無法比賽？"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:26:37 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "Re"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536049600.A.271.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:58"
+  ]
+}
+{
+  "author": [
+    "kenbo (我愛黃恩賜)"
+  ],
+  "title": [
+    "[問卦] Costco是不是台灣史上最強大賣場？"
+  ],
+  "datetime": [
+    "Tue Sep  4 16:26:26 2018"
+  ],
+  "board": [
+    "Gossiping"
+  ],
+  "category": [
+    "[問卦]"
+  ],
+  "url": [
+    "https://www.ptt.cc/bbs/Gossiping/M.1536049588.A.882.html"
+  ],
+  "project": [
+    "PTTweb"
+  ],
+  "spider": [
+    "PTT"
+  ],
+  "server": [
+    "liao-nb"
+  ],
+  "rtrv_date": [
+    "2018-09-04 16:51:58"
+  ]
+}
