@@ -1,0 +1,19 @@
+# R for travis: see documentation at https://docs.travis-ci.com/user/languages/r
+language: Python
+dist: trusty
+sudo: required
+
+script:
+  - echo "Hello World!"
+
+# deploy
+deploy:
+  - provider: pages    # Deploy master to branch win-build
+    target-branch: scrapinghub 
+    skip-cleanup: true
+    github-token: $GH_TOKEN  # Set in travis-ci.org dashboard
+    keep-history: false
+    local-dir: PTTdict
+    on:
+      branch: master
+
