@@ -2,4 +2,4 @@
 /bin
 /include
 /pip-selfcheck.json
-/PTTdict/scrapy.cfg
+scrapinghub.yml
