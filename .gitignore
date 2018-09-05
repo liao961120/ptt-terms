@@ -2,4 +2,4 @@
 /bin
 /include
 /pip-selfcheck.json
-scrapy.cfg
+/PTTdict/scrapy.cfg
