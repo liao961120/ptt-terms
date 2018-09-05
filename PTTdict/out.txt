@@ -1,0 +1,483 @@
+{
+  "title": [
+    "BBS鄉民的正義"
+  ],
+  "bold": [],
+  "bracket": [
+    "去死去死去死",
+    "我的盾牌怎麼不見了",
+    "我的褲子怎麼不見了"
+  ],
+  "link_new": [
+    "中指蕭事件",
+    "makiyo事件",
+    "orz",
+    "聊天室",
+    "Announce版",
+    "鐵拳無敵孫中山"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/BBS%E9%84%89%E6%B0%91%E7%9A%84%E6%AD%A3%E7%BE%A9"
+  ],
+  "date": [
+    "2018-09-05 16:16:15"
+  ]
+}
+{
+  "title": [
+    "爸媽囧很大－ptt是什麼"
+  ],
+  "bold": [
+    "爸媽囧很大"
+  ],
+  "bracket": [
+    "ptt 是什麼"
+  ],
+  "link_new": [
+    "西摳",
+    "汪踢板",
+    "打工板",
+    "網購板",
+    "西斯板",
+    "法西斯板",
+    "日本板",
+    "追星板",
+    "drawing板",
+    "吐槽板",
+    "文具板",
+    "單親家庭板",
+    "省錢板",
+    "贈送板",
+    "鬍子哥",
+    "板規"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E7%88%B8%E5%AA%BD%E5%9B%A7%E5%BE%88%E5%A4%A7%EF%BC%8Dptt%E6%98%AF%E4%BB%80%E9%BA%BC"
+  ],
+  "date": [
+    "2018-09-05 16:16:15"
+  ]
+}
+{
+  "title": [
+    "Moptt"
+  ],
+  "bold": [
+    "MoPTT"
+  ],
+  "bracket": [
+    "黃金交叉",
+    "Sent from JPTT",
+    "一顆星",
+    "起鬨"
+  ],
+  "link_new": [
+    "abian5566",
+    "Android板",
+    "iphone板",
+    "LLsolo",
+    "JPTT"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/Moptt"
+  ],
+  "date": [
+    "2018-09-05 16:16:15"
+  ]
+}
+{
+  "title": [
+    "Komica"
+  ],
+  "bold": [
+    "糟糕島",
+    "Komica",
+    "由於K島匿名性高，",
+    "K島"
+  ],
+  "bracket": [
+    "1883氏"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/Komica"
+  ],
+  "date": [
+    "2018-09-05 16:16:15"
+  ]
+}
+{
+  "title": [
+    "Nokia 3310"
+  ],
+  "bold": [],
+  "bracket": [
+    "神機",
+    "史上最強手機"
+  ],
+  "link_new": [
+    "羅禮士"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/Nokia_3310"
+  ],
+  "date": [
+    "2018-09-05 16:16:15"
+  ]
+}
+{
+  "title": [
+    "三位一體"
+  ],
+  "bold": [
+    "三位一體"
+  ],
+  "bracket": [
+    "三位一體",
+    "時代"
+  ],
+  "link_new": [
+    "西斯",
+    "板服"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E4%B8%89%E4%BD%8D%E4%B8%80%E9%AB%94"
+  ],
+  "date": [
+    "2018-09-05 16:16:15"
+  ]
+}
+{
+  "title": [
+    "了不起，負責"
+  ],
+  "bold": [
+    "了不起，負責"
+  ],
+  "bracket": [
+    "了不起。負責",
+    "鳥不起"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E4%BA%86%E4%B8%8D%E8%B5%B7%EF%BC%8C%E8%B2%A0%E8%B2%AC"
+  ],
+  "date": [
+    "2018-09-05 16:16:15"
+  ]
+}
+{
+  "title": [
+    "小隻馬"
+  ],
+  "bold": [
+    "小隻馬"
+  ],
+  "bracket": [
+    "馬子",
+    "大隻",
+    "騎小隻馬",
+    "彩虹小馬",
+    "小隻",
+    "小隻馬幹起來很棒"
+  ],
+  "link_new": [
+    "西斯",
+    "西斯板",
+    "FallRed"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E5%B0%8F%E9%9A%BB%E9%A6%AC"
+  ],
+  "date": [
+    "2018-09-05 16:16:16"
+  ]
+}
+{
+  "title": [
+    "LUB（理由伯）"
+  ],
+  "bold": [
+    "LUB"
+  ],
+  "bracket": [
+    "理由伯"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/LUB%EF%BC%88%E7%90%86%E7%94%B1%E4%BC%AF%EF%BC%89"
+  ],
+  "date": [
+    "2018-09-05 16:16:16"
+  ]
+}
+{
+  "title": [
+    "中肯（台肯、華肯）"
+  ],
+  "bold": [
+    "中肯"
+  ],
+  "bracket": [
+    "台肯",
+    "原po中肯",
+    "中肯",
+    "本日最中肯",
+    "華肯",
+    "樓上中肯"
+  ],
+  "link_new": [
+    "專業"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E4%B8%AD%E8%82%AF%EF%BC%88%E5%8F%B0%E8%82%AF%E3%80%81%E8%8F%AF%E8%82%AF%EF%BC%89"
+  ],
+  "date": [
+    "2018-09-05 16:16:16"
+  ]
+}
+{
+  "title": [
+    "小熊今年拿冠軍"
+  ],
+  "bold": [
+    "小熊今年拿冠軍"
+  ],
+  "bracket": [
+    "山羊魔咒",
+    "小熊今年拿冠軍",
+    "冠軍",
+    "小熊明年拿冠軍"
+  ],
+  "link_new": [
+    "MLB板"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E5%B0%8F%E7%86%8A%E4%BB%8A%E5%B9%B4%E6%8B%BF%E5%86%A0%E8%BB%8D"
+  ],
+  "date": [
+    "2018-09-05 16:16:16"
+  ]
+}
+{
+  "title": [
+    "尚書大人"
+  ],
+  "bold": [
+    "尚書大人"
+  ],
+  "bracket": [
+    "X樓尚書大人",
+    "原po真是尚書大人",
+    "還真機靈"
+  ],
+  "link_new": [
+    "九品芝麻官",
+    "sleeeve"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E5%B0%9A%E6%9B%B8%E5%A4%A7%E4%BA%BA"
+  ],
+  "date": [
+    "2018-09-05 16:16:16"
+  ]
+}
+{
+  "title": [
+    "媽！我在這！、媽！我上電視了！"
+  ],
+  "bold": [
+    "媽我在這",
+    "媽！我在這裡！",
+    "媽！我上電視了"
+  ],
+  "bracket": [
+    "媽！我在這裡",
+    "電視",
+    "媽！我上電視了",
+    "媽！我在這",
+    "媽，我在這！",
+    ".__.\\~/",
+    "媽我上電視了",
+    "媽，我在這裡"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E5%AA%BD%EF%BC%81%E6%88%91%E5%9C%A8%E9%80%99%EF%BC%81%E3%80%81%E5%AA%BD%EF%BC%81%E6%88%91%E4%B8%8A%E9%9B%BB%E8%A6%96%E4%BA%86%EF%BC%81"
+  ],
+  "date": [
+    "2018-09-05 16:16:16"
+  ]
+}
+{
+  "title": [
+    "寶寶之亂"
+  ],
+  "bold": [
+    "寶寶文"
+  ],
+  "bracket": [
+    "嚇死寶寶了",
+    "寶寶",
+    "寶寶好怕",
+    "寶寶開心"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E5%AF%B6%E5%AF%B6%E4%B9%8B%E4%BA%82"
+  ],
+  "date": [
+    "2018-09-05 16:16:16"
+  ]
+}
+{
+  "title": [
+    "宵夜文"
+  ],
+  "bold": [
+    "宵夜文"
+  ],
+  "bracket": [
+    "宵夜文",
+    "蕭葉雯",
+    "意圖使人吃宵夜"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E5%AE%B5%E5%A4%9C%E6%96%87"
+  ],
+  "date": [
+    "2018-09-05 16:16:16"
+  ]
+}
+{
+  "title": [
+    "富奸、富奸化"
+  ],
+  "bold": [
+    "富奸",
+    "富奸化"
+  ],
+  "bracket": [
+    "拖稿",
+    "富奸",
+    "別富奸啊",
+    "你富奸了",
+    "不要富奸化啊",
+    "富奸化",
+    "高富奸",
+    "golf jane"
+  ],
+  "link_new": [
+    "西斯版",
+    "nba板"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E5%AF%8C%E5%A5%B8%E3%80%81%E5%AF%8C%E5%A5%B8%E5%8C%96"
+  ],
+  "date": [
+    "2018-09-05 16:16:16"
+  ]
+}
+{
+  "title": [
+    "守街亭"
+  ],
+  "bold": [
+    "街亭文",
+    "守街亭"
+  ],
+  "bracket": [
+    "不是馬良失街亭嗎？",
+    "是馬謖失街亭吧？",
+    "馬超失街亭",
+    "孔明淚斬馬超",
+    "是馬岱失街亭吧！",
+    "馬雲失街亭",
+    "ＹＹ跟街亭誰難守",
+    "ＸＸ守得住街亭嗎？",
+    "馬囧失街亭",
+    "街亭很難守"
+  ],
+  "link_new": [
+    "John Cena"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E5%AE%88%E8%A1%97%E4%BA%AD"
+  ],
+  "date": [
+    "2018-09-05 16:16:16"
+  ]
+}
+{
+  "title": [
+    "婉君"
+  ],
+  "bold": [
+    "婉君"
+  ],
+  "bracket": [
+    "網軍",
+    "表妹"
+  ],
+  "link_new": [
+    "政黑"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E5%A9%89%E5%90%9B"
+  ],
+  "date": [
+    "2018-09-05 16:16:16"
+  ]
+}
+{
+  "title": [
+    "孩子的學習不能等"
+  ],
+  "bold": [
+    "孩子的學習不能等"
+  ],
+  "bracket": [
+    "孩子的學習"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E5%AD%A9%E5%AD%90%E7%9A%84%E5%AD%B8%E7%BF%92%E4%B8%8D%E8%83%BD%E7%AD%89"
+  ],
+  "date": [
+    "2018-09-05 16:16:16"
+  ]
+}
+{
+  "title": [
+    "完全沒有XX"
+  ],
+  "bold": [
+    "完全沒有XX"
+  ],
+  "bracket": [
+    "畫面",
+    "完全沒有畫面",
+    "學長，請容我…"
+  ],
+  "link_new": [
+    "軍旅版"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E5%AE%8C%E5%85%A8%E6%B2%92%E6%9C%89XX"
+  ],
+  "date": [
+    "2018-09-05 16:16:17"
+  ]
+}
+{
+  "title": [
+    "娘子快跟牛魔王出來看上帝"
+  ],
+  "bold": [],
+  "bracket": [
+    "上帝",
+    "有神快拜",
+    "塊根",
+    "快跟"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E5%A8%98%E5%AD%90%E5%BF%AB%E8%B7%9F%E7%89%9B%E9%AD%94%E7%8E%8B%E5%87%BA%E4%BE%86%E7%9C%8B%E4%B8%8A%E5%B8%9D"
+  ],
+  "date": [
+    "2018-09-05 16:16:17"
+  ]
+}
