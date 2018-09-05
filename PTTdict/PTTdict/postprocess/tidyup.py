@@ -4,11 +4,15 @@ class Cleanbracket(object):
     def process_item(self, item, spider):
         ''' Clean field "bracket" '''
         
+        if 'bracket' not in item:
+            item['bracket'] = []
+        
         # Remove brackets around strings
+
         lst = list()
         for i in item['bracket']:
             no_bracket = re.sub(r'」', '', re.sub(r'「', '', i))
-            lst.append(no_bracket)        
+            lst.append(no_bracket)
         
         # Remove LONG strings
         rm_long_string(lst)
@@ -24,6 +28,9 @@ class Cleanbracket(object):
 class Cleanbold(object):
     def process_item(seld, item, spider):
         ''' Clean field "bold" '''
+        
+        if 'bold' not in item:
+            item['bold'] = []
         
         # Remove inner parenthesis in strings 
         lst = list()
