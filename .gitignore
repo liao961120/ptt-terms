@@ -6,5 +6,4 @@ scrapinghub.yml
 /PTTdict/build
 /PTTdict/project.egg-info
 dict.jl
-dict.json
-view.json
+out.txt
