@@ -2,7 +2,7 @@ library(jsonlite)
 library(dplyr)
 
 dat <- fromJSON("dict.json")
-
+ 
 # Simplify data structure ----
 idx <- which(colnames(dat) %in% c("title", "url", "date"))
 dat[, idx] <- vapply(dat[, idx], unlist, rep("", nrow(dat)))
