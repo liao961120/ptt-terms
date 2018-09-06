@@ -36,9 +36,9 @@ edit the files marked with `#` in the directory tree below.
 Directory structure of `PTTdict/`: 
 ```
 .
-├── run.sh   # scrapy crawl parameters
-├── dict.jl
-├── out.txt
+├── run.sh         # scrapy crawl parameters
+├── dict.json      # Auto-generated (output)
+├── view.json      # Auto-generated (for viewing)
 │
 ├── PTTdict/
 │   ├── __init__.py

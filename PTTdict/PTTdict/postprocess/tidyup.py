@@ -5,7 +5,7 @@ class Cleanbracket(object):
         ''' Clean field "bracket" '''
         
         if 'bracket' not in item:
-            item['bracket'] = []
+            item['bracket'] = None
         
         # Remove brackets around strings
 
@@ -20,6 +20,10 @@ class Cleanbracket(object):
         # Extract Unique value
         lst = list(set(lst))
         
+        # Deal with empty
+        if len(lst) == 0:
+            lst = None
+        
         item['bracket'] = lst
         
         return item
@@ -30,7 +34,7 @@ class Cleanbold(object):
         ''' Clean field "bold" '''
         
         if 'bold' not in item:
-            item['bold'] = []
+            item['bold'] = None
         
         # Remove inner parenthesis in strings 
         lst = list()
@@ -44,6 +48,10 @@ class Cleanbold(object):
         # Extract Unique value
         lst = list(set(lst))
         
+        # Deal with empty
+        if len(lst) == 0:
+            lst = None
+            
         item['bold'] = lst
         
         return item
