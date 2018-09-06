@@ -1,0 +1,563 @@
+{
+  "title": [
+    "$$$$$$$$$$$$"
+  ],
+  "bold": [],
+  "bracket": [
+    "真愛",
+    "女生擇偶的標準？",
+    "郎財女貌",
+    "高富帥"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/$$$$$$$$$$$$"
+  ],
+  "date": [
+    "2018-09-05 18:56:31"
+  ]
+}
+{
+  "title": [
+    "SSD重組"
+  ],
+  "bold": [
+    "SSD 固態硬碟",
+    "磁碟重組"
+  ],
+  "link_new": [
+    "電腦白痴",
+    "電蝦板",
+    "電蝦板"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/SSD%E9%87%8D%E7%B5%84"
+  ],
+  "date": [
+    "2018-09-05 18:56:32"
+  ],
+  "bracket": []
+}
+{
+  "title": [
+    "R.I.P."
+  ],
+  "bold": [
+    "R.I.P."
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/R.I.P."
+  ],
+  "date": [
+    "2018-09-05 18:56:33"
+  ],
+  "bracket": []
+}
+{
+  "title": [
+    "Ptt三大神器"
+  ],
+  "bold": [
+    "ptt 三大神器",
+    "ptt 三神器"
+  ],
+  "bracket": [
+    "KMT黨證"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/Ptt%E4%B8%89%E5%A4%A7%E7%A5%9E%E5%99%A8"
+  ],
+  "date": [
+    "2018-09-05 18:56:34"
+  ]
+}
+{
+  "title": [
+    "OP"
+  ],
+  "bold": [
+    "OP"
+  ],
+  "bracket": [
+    "過於強大",
+    "同秒OP",
+    "over post"
+  ],
+  "link_new": [
+    "版主",
+    "ptthistory版"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/OP"
+  ],
+  "date": [
+    "2018-09-05 18:56:35"
+  ]
+}
+{
+  "title": [
+    "Obov（身寸☆惹ㄦ）"
+  ],
+  "bold": [
+    "obov",
+    "母豬教主",
+    "水桶哥",
+    "教主"
+  ],
+  "bracket": [
+    "當年我每回翻開課本，腦袋裡就先告訴自己 這是戰場，我是來拼命的",
+    "清淨",
+    "母豬教殉教事件",
+    "課金爆死非洲人",
+    "公主V.S.教主",
+    "聖戰",
+    "工口芒果老師",
+    "母豬教教徒",
+    "殉教",
+    "GG 輪班星人",
+    "母豬母豬，夜裡哭哭",
+    "母豬板",
+    "包子讚讚讚",
+    "板皇條款",
+    "教主",
+    "曹操生子當如？",
+    "母豬教主",
+    "記得發好發滿呀～",
+    "始作俑者",
+    "矽谷",
+    "女板板風",
+    "依法行政，謝謝指教",
+    "母豬就應該給豬幹",
+    "幹0糧母豬滾喇幹",
+    "樓下 obov",
+    "政治迫害",
+    "很多人",
+    "幹0糧雞掰",
+    "母豬母豬夜裡哭哭",
+    "hail obov",
+    "母豬教出征事件",
+    "Sieg G 嗡"
+  ],
+  "link_new": [
+    "tech_job板",
+    "忍者亂太郎板",
+    "預官預士板",
+    "koei板",
+    "home-sale板",
+    "RIPE_gender板",
+    "三國板",
+    "日本戰國板",
+    "男女板",
+    "電蝦板",
+    "海外工作板",
+    "CareerPlan板",
+    "Electronics電子電機板",
+    "mentalk板",
+    "QQ",
+    "忍者亂太郎板",
+    "twod",
+    "多重帳號",
+    "gun5566",
+    "zoeforce",
+    "zoeforce",
+    "mentalk板",
+    "聚眾癱瘓看板正常運作處理規則"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/Obov%EF%BC%88%E8%BA%AB%E5%AF%B8%E2%98%86%E6%83%B9%E3%84%A6%EF%BC%89"
+  ],
+  "date": [
+    "2018-09-05 18:56:36"
+  ]
+}
+{
+  "title": [
+    "Nokia 3310"
+  ],
+  "bold": [],
+  "bracket": [
+    "史上最強手機",
+    "神機"
+  ],
+  "link_new": [
+    "羅禮士"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/Nokia_3310"
+  ],
+  "date": [
+    "2018-09-05 18:56:37"
+  ]
+}
+{
+  "title": [
+    "NBAdog（鐵手套、藏獒）"
+  ],
+  "bold": [
+    "鐵手套",
+    "NBAdog",
+    "藏獒"
+  ],
+  "bracket": [
+    "ttb 我想幹死你"
+  ],
+  "link_new": [
+    "joke等版",
+    "KingdomHuang版"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/NBAdog%EF%BC%88%E9%90%B5%E6%89%8B%E5%A5%97%E3%80%81%E8%97%8F%E7%8D%92%EF%BC%89"
+  ],
+  "date": [
+    "2018-09-05 18:56:38"
+  ]
+}
+{
+  "title": [
+    "MoNeNe"
+  ],
+  "bold": [
+    "MoNeNe",
+    "你的406咧？"
+  ],
+  "bracket": [
+    "你的406咧？",
+    "原來MoNeNe說的是真的"
+  ],
+  "link_new": [
+    "軍旅板",
+    "起飛",
+    "軍旅板"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/MoNeNe"
+  ],
+  "date": [
+    "2018-09-05 18:56:38"
+  ]
+}
+{
+  "title": [
+    "Mini158"
+  ],
+  "bold": [
+    "mini158",
+    "mini",
+    "迷你妖五八"
+  ],
+  "bracket": [
+    "復活了",
+    "十二樓",
+    "詐死"
+  ],
+  "link_new": [
+    "西斯",
+    "jacky66666",
+    "kinple",
+    "pttradio版"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/Mini158"
+  ],
+  "date": [
+    "2018-09-05 18:56:39"
+  ]
+}
+{
+  "title": [
+    "M 起來"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/M_%E8%B5%B7%E4%BE%86"
+  ],
+  "date": [
+    "2018-09-05 18:56:41"
+  ],
+  "bracket": [],
+  "bold": []
+}
+{
+  "title": [
+    "尚書大人"
+  ],
+  "bold": [
+    "尚書大人"
+  ],
+  "bracket": [
+    "原po真是尚書大人",
+    "X樓尚書大人",
+    "還真機靈"
+  ],
+  "link_new": [
+    "九品芝麻官",
+    "sleeeve"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E5%B0%9A%E6%9B%B8%E5%A4%A7%E4%BA%BA"
+  ],
+  "date": [
+    "2018-09-05 18:56:41"
+  ]
+}
+{
+  "title": [
+    "鯰姐"
+  ],
+  "bracket": [
+    "鯰亂"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E9%AF%B0%E5%A7%90"
+  ],
+  "date": [
+    "2018-09-05 18:56:42"
+  ],
+  "bold": []
+}
+{
+  "title": [
+    "黑皮板（happy）"
+  ],
+  "bold": [
+    "黑皮板"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E9%BB%91%E7%9A%AE%E6%9D%BF%EF%BC%88happy%EF%BC%89"
+  ],
+  "date": [
+    "2018-09-05 18:56:44"
+  ],
+  "bracket": []
+}
+{
+  "title": [
+    "黑特板緊急尋人救命事件"
+  ],
+  "bold": [],
+  "bracket": [],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E9%BB%91%E7%89%B9%E6%9D%BF%E7%B7%8A%E6%80%A5%E5%B0%8B%E4%BA%BA%E6%95%91%E5%91%BD%E4%BA%8B%E4%BB%B6"
+  ],
+  "date": [
+    "2018-09-05 18:56:45"
+  ]
+}
+{
+  "title": [
+    "鄉民晚報"
+  ],
+  "bold": [
+    "Ptt鄉民晚報"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E9%84%89%E6%B0%91%E6%99%9A%E5%A0%B1"
+  ],
+  "date": [
+    "2018-09-05 18:56:46"
+  ],
+  "bracket": []
+}
+{
+  "title": [
+    "跪在電腦前"
+  ],
+  "bold": [
+    "跪在電腦前"
+  ],
+  "bracket": [
+    "在電腦前下跪",
+    "家人",
+    "跪著打電腦",
+    "跪著看銀幕",
+    "我媽問我為什麼",
+    "跪著打字",
+    "有神快拜",
+    "室友",
+    "已跪",
+    "跪求",
+    "跪著推文",
+    "跪著上ptt",
+    "膝蓋軟了",
+    "我媽",
+    "只能跪了",
+    "跪著滑手機",
+    "同事",
+    "跪著看電腦",
+    "在銀幕前下跪"
+  ],
+  "link_new": [
+    "tos"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E8%B7%AA%E5%9C%A8%E9%9B%BB%E8%85%A6%E5%89%8D"
+  ],
+  "date": [
+    "2018-09-05 18:56:47"
+  ]
+}
+{
+  "title": [
+    "跟xx認真就輸了"
+  ],
+  "bold": [
+    "跟xx認真就輸了"
+  ],
+  "bracket": [
+    "跟鄉民認真就輸了"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E8%B7%9Fxx%E8%AA%8D%E7%9C%9F%E5%B0%B1%E8%BC%B8%E4%BA%86"
+  ],
+  "date": [
+    "2018-09-05 18:56:48"
+  ]
+}
+{
+  "title": [
+    "趕快推，不然別人會以為我們看不懂"
+  ],
+  "bold": [
+    "快推，免得別人以為我們看不懂"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E8%B6%95%E5%BF%AB%E6%8E%A8%EF%BC%8C%E4%B8%8D%E7%84%B6%E5%88%A5%E4%BA%BA%E6%9C%83%E4%BB%A5%E7%82%BA%E6%88%91%E5%80%91%E7%9C%8B%E4%B8%8D%E6%87%82"
+  ],
+  "date": [
+    "2018-09-05 18:56:49"
+  ],
+  "bracket": []
+}
+{
+  "title": [
+    "越想越不對勁"
+  ],
+  "bracket": [
+    "#越想越不對勁",
+    "複雜的防衛機制",
+    "事後想想不對"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E8%B6%8A%E6%83%B3%E8%B6%8A%E4%B8%8D%E5%B0%8D%E5%8B%81"
+  ],
+  "date": [
+    "2018-09-05 18:56:50"
+  ],
+  "bold": []
+}
+{
+  "title": [
+    "超後悔投給柯P"
+  ],
+  "bold": [
+    "超後悔投給柯P的",
+    "超後悔投給柯P"
+  ],
+  "bracket": [],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E8%B6%85%E5%BE%8C%E6%82%94%E6%8A%95%E7%B5%A6%E6%9F%AFP"
+  ],
+  "date": [
+    "2018-09-05 18:56:51"
+  ]
+}
+{
+  "title": [
+    "趁亂告白"
+  ],
+  "bold": [
+    "趁亂告白"
+  ],
+  "bracket": [
+    "XXX我愛你",
+    "我愛XXX"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E8%B6%81%E4%BA%82%E5%91%8A%E7%99%BD"
+  ],
+  "date": [
+    "2018-09-05 18:56:52"
+  ]
+}
+{
+  "title": [
+    "讚 留言 分享"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E8%AE%9A_%E7%95%99%E8%A8%80_%E5%88%86%E4%BA%AB"
+  ],
+  "date": [
+    "2018-09-05 18:56:53"
+  ],
+  "bracket": [],
+  "bold": []
+}
+{
+  "title": [
+    "讓她生！讓她生！（讓他爆、讓他昇）"
+  ],
+  "bold": [
+    "讓他爆",
+    "讓他昇",
+    "讓她生、讓她生！"
+  ],
+  "bracket": [
+    "讓他昇、讓他昇",
+    "讓她生、讓她生",
+    "讓他爆、讓他爆",
+    "讓她生"
+  ],
+  "link_new": [
+    "九品芝麻官",
+    "西斯",
+    "男女"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E8%AE%93%E5%A5%B9%E7%94%9F%EF%BC%81%E8%AE%93%E5%A5%B9%E7%94%9F%EF%BC%81%EF%BC%88%E8%AE%93%E4%BB%96%E7%88%86%E3%80%81%E8%AE%93%E4%BB%96%E6%98%87%EF%BC%89"
+  ],
+  "date": [
+    "2018-09-05 18:56:54"
+  ]
+}
+{
+  "title": [
+    "謝謝你9527"
+  ],
+  "bold": [
+    "謝謝你9527"
+  ],
+  "bracket": [
+    "那話兒不容易軟",
+    "謝謝你9527"
+  ],
+  "link_new": [
+    "鳳山凱名事件",
+    "好人"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E8%AC%9D%E8%AC%9D%E4%BD%A09527"
+  ],
+  "date": [
+    "2018-09-05 18:56:54"
+  ]
+}
+{
+  "title": [
+    "請退選"
+  ],
+  "bold": [
+    "請退選",
+    "退選"
+  ],
+  "bracket": [
+    "PTT鄉民有約",
+    "請退選",
+    "退選",
+    "抓到了CNN 是綠的柯P請退選",
+    "要求對手主動退選"
+  ],
+  "url": [
+    "http://zh.pttpedia.wikia.com/wiki/%E8%AB%8B%E9%80%80%E9%81%B8"
+  ],
+  "date": [
+    "2018-09-05 18:56:55"
+  ]
+}
