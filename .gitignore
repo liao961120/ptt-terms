@@ -2,9 +2,10 @@
 /bin
 /include
 /pip-selfcheck.json
-scrapinghub.yml
 /PTTdict/build
 /PTTdict/project.egg-info
+/man
 dict.jl
 dict.json
 view.json
+scrapinghub.yml
