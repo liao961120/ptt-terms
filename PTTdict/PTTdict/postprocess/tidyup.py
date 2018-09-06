@@ -6,6 +6,7 @@ class Cleanbracket(object):
         
         if 'bracket' not in item:
             item['bracket'] = None
+            return item
         
         # Remove brackets around strings
 
@@ -35,6 +36,7 @@ class Cleanbold(object):
         
         if 'bold' not in item:
             item['bold'] = None
+            return item
         
         # Remove inner parenthesis in strings 
         lst = list()
