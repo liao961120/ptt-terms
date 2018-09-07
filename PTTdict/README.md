@@ -35,7 +35,7 @@ Directory structure of `PTTdict/`:
 │
 ├── PTTdict
 │   ├── __init__.py
-│   ├── items.py         # Define item field
+│   ├── items.py         # Define item fields
 │   ├── middlewares.py
 │   ├── pipelines.py
 │   ├── postprocess
