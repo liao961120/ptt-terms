@@ -11,16 +11,15 @@ before_install:
   - sudo pip3 install virtualenv
 
 script:
-  - echo "Hello World!"
+  - bash render-PTTdict.sh
 
 # deploy
 deploy:
   - provider: pages    # Deploy master to branch win-build
-    target-branch: scrapinghub 
     skip-cleanup: true
     github-token: $GH_TOKEN  # Set in travis-ci.org dashboard
     keep-history: false
-    local-dir: PTTdict
+    local-dir: docs
     on:
       branch: master
 

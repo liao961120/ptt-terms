@@ -1,0 +1,36 @@
+name: "main"
+exclude:
+  - '*.csv'
+  - '*.json'
+  - '*.rds'
+navbar:
+  title: "批踢踢常用詞彙"
+  right:
+  - icon: fa-github
+    href: https://github.com/liao961120/PTT-scrapy/tree/master/PTTdict
+  - icon: fa-share-alt
+    menu:
+    - icon: fa-facebook-square
+      text: "Facebook"
+      href: https://www.facebook.com/sharer/sharer.php?u=https%3A//liao961120.github.io/PTT-scrapy
+    - icon: fa-google-plus
+      text: "Google Plus"
+      href: https://plus.google.com/share?url=https%3A//liao961120.github.io/PTT-scrapy
+    - icon: fa-twitter
+      text: "Twitter"
+      href: https://twitter.com/home?status=https%3A//liao961120.github.io/PTT-scrapy
+    - icon: fa-linkedin
+      text: "Linkedin"
+      href: https://www.linkedin.com/shareArticle?mini=true&url=https%3A//liao961120.github.io/PTT-scrapy/&title=&summary=&source=
+  left:
+  - icon: fa-home
+    href: index.html
+output:
+  html_document:
+    theme: default
+    include:
+    css: style.css
+    lib_dir: site_libs
+    self_contained: yes
+output_dir: docs
+

@@ -1,0 +1,67 @@
+---
+title: "批踢踢常用詞彙"
+output:
+  html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+	echo = FALSE,
+	fig.dim = c(7, 4),
+	message = FALSE,
+	warning = FALSE,
+	comment = "",
+	dev = "svg",
+	dpi = 350,
+	out.width = "100%"
+)
+Sys.setenv(TZ="Asia/Taipei")
+```
+
+<p style="text-align:right; font-size:10px">
+上次更新：`r Sys.time()`
+</p>
+
+
+```{r}
+dat <- readRDS("dict.rds")
+```
+
+## 關於
+
+這裡提供**[批踢踢](https://term.ptt.cc/)常見用語**的查找與檔案。常見用語自 [PTT 鄉民百科](http://zh.pttpedia.wikia.com/wiki/) 爬取，有 `r length(unique(dat$source))` 種來源：
+
+1. bold：HTML `<b>`之下的文字
+1. linknew：HTML `<a class="new">`之下的文字
+1. bracket：`「`、`」`之間的文字
+
+<br>
+
+## 批踢踢常用詞彙
+
+```{r}
+library(DT)
+colnames(dat) <- c("PTT 用語", "HTML Tag")
+datatable(dat, rownames = FALSE, filter = "bottom",
+          options = list(
+              pageLength = 15,
+              #dom = 'tip',
+              columnDefs = list(list(className = 'dt-center', 
+                                     targets="_all")
+                                )
+              )
+          )
+```
+
+<br>
+
+## 資料下載與授權
+
+[至此](https://github.com/liao961120/PTT-scrapy/tree/master/PTTdict/data)取得資料：
+
+- `dict.json`: 自網頁爬取的原始資料，內容最為豐富
+- `dict.rds`, `dict.csv`: 整理過後之資料，與此網頁上的資料相同
+
+<br>
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/tw/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/tw/88x31.png" /></a><br />本資料產出自 PTT 鄉民百科<br>採<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/tw/">創用 CC 姓名標示-相同方式分享 3.0 台灣 授權條款</a>授權
