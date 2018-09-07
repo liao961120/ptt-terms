@@ -38,7 +38,6 @@ Directory structure of `PTTdict/`:
 .
 ├── run.sh           # scrapy crawl parameters
 ├── view.json        # Auto-generated (for viewing)
-├── scrapinghub.yml
 ├── scrapy.cfg
 ├── setup.py
 │
