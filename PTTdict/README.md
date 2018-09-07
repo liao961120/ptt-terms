@@ -28,8 +28,8 @@ edit the files marked with `#` in the directory tree below.
 Directory structure of `PTTdict/`: 
 ```
 .
-├── run.sh           # scrapy crawl parameters
-├── view.json        # Auto-generated (for viewing)
+├── run.sh              # scrapy crawl parameters
+├── view.json           # Auto-generated (for viewing)
 ├── scrapy.cfg
 ├── setup.py
 │
@@ -44,7 +44,7 @@ Directory structure of `PTTdict/`:
 │   ├── __pycache__/
 │   ├── settings.py
 │   └── spiders
-│       ├── dict.py
+│       ├── dict.py     # Spider for scraping PTT wiki
 │       ├── __init__.py
 │       └── __pycache__/
 └── data
