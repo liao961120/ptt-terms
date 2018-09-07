@@ -1,5 +1,7 @@
 library(jsonlite)
 library(dplyr)
+library(jsonlite)
+library(htmlTable)
 
 dat <- fromJSON("dict.json")
  
@@ -20,4 +22,8 @@ lst <- bind_rows(lst)
 
 # Construct dictionary ----
 dict <- filter(lst, nchar(term) <= 15) %>%
-  distinct(term, .keep_all = T)
+  distinct(term, .keep_all = T) %>% 
+  arrange(desc(term), nchar(term), source)
+
+saveRDS(dict, "dict.rds")
+readr::write_csv(dict, "dict.csv")

@@ -1,7 +1,14 @@
 # R for travis: see documentation at https://docs.travis-ci.com/user/languages/r
-language: Python
-dist: trusty
+language: R
 sudo: required
+cache: packages
+dist: trusty
+pandoc_version: 1.19.2.1
+before_install:
+  - sudo apt-get update
+  - sudo apt-get install python3.6
+  - sudo apt-get install python3-pip
+  - sudo pip3 install virtualenv
 
 script:
   - echo "Hello World!"
