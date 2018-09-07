@@ -9,13 +9,12 @@ pip install scrapy
 
 # Begin Crawling
 cd PTTdict
-bash run.sh
+#bash run.sh
 deactivate
 
 # Construct dictionary with R
 cd data
-Rscript -e 'source("dict_constr.R")' 
-Rscript -e 'rmarkdown::render_site(encoding = "UTF-8")'
+Rscript -e 'source("dict_constr.R")' && Rscript -e 'rmarkdown::render_site(encoding = "UTF-8")'
 cp -r docs/ $ori_dir
 
 cd $ori_dir
