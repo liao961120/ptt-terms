@@ -27,7 +27,9 @@ pip install scrapy
 
 ```bash
 cd PTTdict
-bash run.sh
+bash run.sh 10 0.7
+# First para: number of items to scrape
+# Second para: time interval between requests (unit = sec)
 ```
 
 ### Modification
