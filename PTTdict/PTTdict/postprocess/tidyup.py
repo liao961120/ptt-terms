@@ -16,7 +16,7 @@ class Cleanbracket(object):
             lst.append(no_bracket)
         
         # Remove LONG strings
-        rm_long_string(lst)
+        #rm_long_string(lst)
 
         # Extract Unique value
         lst = list(set(lst))
@@ -45,7 +45,7 @@ class Cleanbold(object):
             lst.append(rm_paren)
 
         # Remove LONG strings
-        rm_long_string(lst)
+        #rm_long_string(lst)
             
         # Extract Unique value
         lst = list(set(lst))
