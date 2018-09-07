@@ -35,7 +35,7 @@ Directory structure of `PTTdict/`:
 │
 ├── PTTdict
 │   ├── __init__.py
-│   ├── items.py
+│   ├── items.py         # Define item field
 │   ├── middlewares.py
 │   ├── pipelines.py
 │   ├── postprocess
@@ -44,12 +44,12 @@ Directory structure of `PTTdict/`:
 │   ├── __pycache__/
 │   ├── settings.py
 │   └── spiders
-│       ├── dict.py     # Spider for scraping PTT wiki
+│       ├── dict.py      # Spider for scraping PTT wiki
 │       ├── __init__.py
 │       └── __pycache__/
 └── data
-    ├── dict_constr.R   # Filter & convert to data frame
-    ├── index.Rmd       # Build Web Site
+    ├── dict_constr.R    # Filter & convert to data frame
+    ├── index.Rmd        # Build Web Site
     ├── _site.yml
     └── style.css
 ```
