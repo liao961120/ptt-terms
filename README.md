@@ -24,7 +24,7 @@ pip install scrapy
 
 ## Scraping [PTT Wiki](http://zh.pttpedia.wikia.com/wiki/)
 
-See [`render-PTTdict.sh`](https://github.com/liao961120/PTT-scrapy/blob/master/render-PTTdict.sh) or [PTTdict/](https://github.com/liao961120/PTT-scrapy/tree/master/PTTdict) for details.
+See [`render-PTTdict.sh`](https://github.com/liao961120/PTT-scrapy/blob/master/render-PTTdict.sh) or [`PTTdict/`](https://github.com/liao961120/PTT-scrapy/tree/master/PTTdict) for details.
 
 
 ## Scraping [PTT Web](https://www.ptt.cc/bbs/)
