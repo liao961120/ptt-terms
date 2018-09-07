@@ -36,25 +36,31 @@ edit the files marked with `#` in the directory tree below.
 Directory structure of `PTTdict/`: 
 ```
 .
-├── run.sh         # scrapy crawl parameters
-├── dict.json      # Auto-generated (output)
-├── view.json      # Auto-generated (for viewing)
+├── run.sh           # scrapy crawl parameters
+├── view.json        # Auto-generated (for viewing)
+├── scrapinghub.yml
+├── scrapy.cfg
+├── setup.py
 │
-├── PTTdict/
+├── PTTdict
 │   ├── __init__.py
-│   ├── items.py          # Set item fields
+│   ├── items.py
 │   ├── middlewares.py
 │   ├── pipelines.py
-│   ├── postprocess/
+│   ├── postprocess
 │   │   ├── __pycache__/
-│   │   └── tidyup.py     # Clean scraped items (piplines)
+│   │   └── tidyup.py
 │   ├── __pycache__/
-│   ├── settings.py       # set item piplines
-│   └── spiders/
-│       ├── dict.py       # Spider
+│   ├── settings.py
+│   └── spiders
+│       ├── dict.py
 │       ├── __init__.py
 │       └── __pycache__/
-└── scrapy.cfg
+└── data
+    ├── dict_constr.R
+    ├── index.Rmd
+    ├── _site.yml
+    └── style.css
 ```
 
 

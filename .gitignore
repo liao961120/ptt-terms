@@ -8,3 +8,6 @@
 view.json
 scrapinghub.yml
 docs/
+dict.json
+dict.csv
+dict.rds
