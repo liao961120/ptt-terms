@@ -25,46 +25,7 @@ pip install scrapy
 
 ## Scraping [PTT Wiki](http://zh.pttpedia.wikia.com/wiki/)
 
-```bash
-cd PTTdict
-bash run.sh 10 0.7
-# First para: number of items to scrape
-# Second para: time interval between requests (unit = sec)
-```
-
-### Modification
-
-To modify the behavior of the spider,
-edit the files marked with `#` in the directory tree below.
-
-Directory structure of `PTTdict/`: 
-```
-.
-├── run.sh           # scrapy crawl parameters
-├── view.json        # Auto-generated (for viewing)
-├── scrapy.cfg
-├── setup.py
-│
-├── PTTdict
-│   ├── __init__.py
-│   ├── items.py
-│   ├── middlewares.py
-│   ├── pipelines.py
-│   ├── postprocess
-│   │   ├── __pycache__/
-│   │   └── tidyup.py
-│   ├── __pycache__/
-│   ├── settings.py
-│   └── spiders
-│       ├── dict.py
-│       ├── __init__.py
-│       └── __pycache__/
-└── data
-    ├── dict_constr.R
-    ├── index.Rmd
-    ├── _site.yml
-    └── style.css
-```
+Read `render-PTTdict.sh` or see [PTTdict](https://github.com/liao961120/PTT-scrapy/tree/master/PTTdict) for details.
 
 
 ## Scraping [PTT Web](https://www.ptt.cc/bbs/)
@@ -80,7 +41,7 @@ To view scraped data:
 cat ptt.jl | jq "." | less
 ```
 
-To modify spider:
+To modify the spider:
 ```bash
 vim PTTweb/spiders/PTT.py
 vim PTTweb/items.py
