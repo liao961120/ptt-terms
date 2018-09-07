@@ -1,10 +1,15 @@
 library(jsonlite)
 library(dplyr)
-library(jsonlite)
-library(htmlTable)
 
-dat <- fromJSON("dict.json")
- 
+if (file.exists("dict.json")) {
+  dat <- fromJSON("dicT.json")  
+} else {
+  dat <- fromJSON(url("https://liao961120.github.io/PTT-scrapy/dict.json"))  
+}
+
+
+
+
 # Simplify data structure ----
 idx <- which(colnames(dat) %in% c("title", "url", "date"))
 dat[, idx] <- vapply(dat[, idx], unlist, rep("", nrow(dat)))

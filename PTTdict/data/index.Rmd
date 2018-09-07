@@ -18,8 +18,14 @@ knitr::opts_chunk$set(
 Sys.setenv(TZ="Asia/Taipei")
 ```
 
+```{r}
+err <- "Crawl Skipped, use old."
+```
+
+
 <p style="text-align:right; font-size:10px">
 上次更新：`r Sys.time()`
+`r if (!file.exists("dict.json")) err`
 </p>
 
 
@@ -44,7 +50,7 @@ library(DT)
 colnames(dat) <- c("PTT 用語", "HTML Tag")
 datatable(dat, rownames = FALSE, filter = "bottom",
           options = list(
-              pageLength = 15,
+              pageLength = 10,
               #dom = 'tip',
               columnDefs = list(list(className = 'dt-center', 
                                      targets="_all")
