@@ -57,10 +57,8 @@ datatable(dat, rownames = FALSE, filter = "bottom",
 
 ## 資料下載與授權
 
-[至此](https://github.com/liao961120/PTT-scrapy/tree/master/PTTdict/data)取得資料：
-
-- `dict.json`: 自網頁爬取的原始資料，內容最為豐富
-- `dict.rds`, `dict.csv`: 整理過後之資料，與此網頁上的資料相同
+- [`dict.json`](dict.json): 自網頁爬取的原始資料，內容最為豐富
+- [`dict.csv`](dict.csv): 整理過後之資料，與此網頁上的資料相同
 
 <br>
 

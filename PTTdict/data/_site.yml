@@ -1,8 +1,6 @@
 name: "main"
 exclude:
-  - '*.csv'
-  - '*.json'
-  - '*.rds'
+  - '*.R'
 navbar:
   title: "批踢踢常用詞彙"
   right:
