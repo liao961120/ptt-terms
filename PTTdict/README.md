@@ -40,9 +40,9 @@ Directory structure of `PTTdict/`:
 │   ├── pipelines.py
 │   ├── postprocess
 │   │   ├── __pycache__/
-│   │   └── tidyup.py
+│   │   └── tidyup.py    # Process items before output
 │   ├── __pycache__/
-│   ├── settings.py
+│   ├── settings.py      # Setting for item piplines
 │   └── spiders
 │       ├── dict.py      # Spider for scraping PTT wiki
 │       ├── __init__.py
