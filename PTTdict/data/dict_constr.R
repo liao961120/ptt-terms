@@ -2,9 +2,11 @@ library(jsonlite)
 library(dplyr)
 
 if (file.exists("dict.json")) {
-  dat <- fromJSON("dicT.json")  
+  dat <- fromJSON("dict.json")  
 } else {
-  dat <- fromJSON(url("https://liao961120.github.io/PTT-scrapy/dict.json"))  
+  url <- "https://liao961120.github.io/PTT-scrapy/dict.json"
+  download.file(url, "dict.json")
+  dat <- fromJSON("dict.json")  
 }
 
 
