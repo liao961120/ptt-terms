@@ -9,7 +9,7 @@ pip install scrapy
 
 # Begin Crawling
 cd PTTdict
-#bash run.sh
+bash run.sh  # Crawl website
 deactivate
 
 # Construct dictionary with R
