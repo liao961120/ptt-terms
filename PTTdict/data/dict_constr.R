@@ -16,6 +16,11 @@ if (file.exists("dict.json")) {
 idx <- which(colnames(dat) %in% c("title", "url", "date"))
 dat[, idx] <- vapply(dat[, idx], unlist, rep("", nrow(dat)))
 
+# Extract title
+title <- as.data.frame(cbind(dat$title, "title"),
+                       stringsAsFactors = F)
+colnames(title) <- c('term', 'source')
+
 # Extract terms from list columns in 'dat' ----
 lst <- vector("list", 3L)
 k <- 1
@@ -28,7 +33,8 @@ for (i in c("bold", "bracket", "link_new")) {
 lst <- bind_rows(lst)
 
 # Construct dictionary ----
-dict <- filter(lst, nchar(term) <= 15) %>%
+dict <- lst %>%
+  bind_rows(title) %>%
   distinct(term, .keep_all = T) %>% 
   arrange(desc(term), nchar(term), source)
 
