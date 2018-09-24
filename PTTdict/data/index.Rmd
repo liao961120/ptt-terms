@@ -31,9 +31,10 @@ dat <- readRDS("dict.rds")
 
 這裡提供**[批踢踢](https://term.ptt.cc/)常見用語**的查找與檔案。常見用語自 [PTT 鄉民百科](http://zh.pttpedia.wikia.com/wiki/) 爬取，有 `r length(unique(dat$source))` 種來源：
 
-1. bold：HTML `<b>`之下的文字
-1. linknew：HTML `<a class="new">`之下的文字
-1. bracket：`「`、`」`之間的文字
+1. title: HTML `h1.page-header__title` 之下的文字
+1. bold：HTML `b` (粗體)之下的文字
+1. linknew：HTML `a.new` 之下的文字
+1. bracket：`「`、`」` 之間的文字
 
 <br>
 
