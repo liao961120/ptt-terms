@@ -1,5 +1,5 @@
 ---
-title: "批踢踢常用詞彙"
+title: "批踢踢用語"
 output:
   html_document
 ---
@@ -38,7 +38,7 @@ dat <- readRDS("dict.rds")
 
 <br>
 
-## 批踢踢常用詞彙
+## 批踢踢用語
 
 ```{r}
 library(DT)
