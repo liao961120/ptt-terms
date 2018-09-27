@@ -12,6 +12,9 @@ class DictSpider(CrawlSpider):
     allowed_domains = ['zh.pttpedia.wikia.com']
     start_urls = [
         'http://zh.pttpedia.wikia.com/wiki/%E5%88%86%E9%A1%9E:PTT%E6%B5%81%E8%A1%8C%E7%94%A8%E8%AA%9E', # 流行用語
+        'http://zh.pttpedia.wikia.com/wiki/%E5%88%86%E9%A1%9E:PTT%E6%96%87%E5%8C%96', # 鄉民文化
+        'http://zh.pttpedia.wikia.com/wiki/%E5%88%86%E9%A1%9E:PTT%E6%B5%81%E8%A1%8C%E7%AC%A6%E8%99%9F', # 流行符號
+        'http://zh.pttpedia.wikia.com/wiki/%E5%88%86%E9%A1%9E:PTT%E5%9F%BA%E6%9C%AC%E7%94%A8%E8%AA%9E', # 基本用語
         'http://zh.pttpedia.wikia.com/wiki/%E5%88%86%E9%A1%9E:PTT%E5%90%8D%E4%BA%BA', # 名人
         'http://zh.pttpedia.wikia.com/wiki/%E5%88%86%E9%A1%9E:PTT%E7%9C%8B%E6%9D%BF', # 看板
         'http://zh.pttpedia.wikia.com/wiki/%E5%88%86%E9%A1%9E:PTT%E4%BA%8B%E4%BB%B6', # 事件
