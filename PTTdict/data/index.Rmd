@@ -1,7 +1,9 @@
 ---
 title: "批踢踢用語"
 output:
-  html_document
+  html_document:
+    includes:
+      in_header: GA.html
 ---
 
 ```{r setup, include=FALSE}
