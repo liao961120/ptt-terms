@@ -19,7 +19,7 @@ deploy:
     skip-cleanup: true
     github-token: $GH_TOKEN  # Set in travis-ci.org dashboard
     keep-history: false
-    local-dir: docs
+    local-dir: PTTdict/data/docs
     on:
       branch: master
 
