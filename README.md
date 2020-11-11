@@ -3,7 +3,6 @@
 [![Support Scrapy Version](https://img.shields.io/badge/scrapy-1.5-orange.svg)](https://docs.scrapy.org/)
 
 
-
 ## Modification
 
 To modify the behavior of the spider,
