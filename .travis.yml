@@ -1,7 +1,16 @@
-# R for travis: see documentation at https://docs.travis-ci.com/user/languages/r
-language: python
-before_install:
+python:
+  - "3.8"
+sudo: false
+
+branches:
+  only:
+    - master
+
+install:
   - pip install Scrapy
+
+cache:
+  pip: true
 
 script:
   - bash run.sh
