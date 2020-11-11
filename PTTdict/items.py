@@ -16,6 +16,7 @@ class PropertiesItem(scrapy.Item):
     bracket = scrapy.Field()
     link_new = scrapy.Field()
     link_redr = scrapy.Field()
+    link_title = scrapy.Field()
     
     
     

@@ -27,6 +27,8 @@ class DictSpider(CrawlSpider):
     rules = (
         Rule(LinkExtractor(restrict_css='.category-page__pagination-next')),  # horizontal
         Rule(LinkExtractor(restrict_css='.category-page__member-link'), callback='parse_item'),  # vertical
+        Rule(LinkExtractor(restrict_css='.mw-redirect'), callback='parse_item'),
+        Rule(LinkExtractor(restrict_xpaths='//a[@title]'), callback='parse_item'),
     )
 
     
@@ -38,7 +40,8 @@ class DictSpider(CrawlSpider):
         l.add_xpath('bold', '//p/b/text()', re='.{2,}')
         l.add_xpath('bracket', '//p/text()', re='「[^(「|」)]{2,}」') # Match all words but '「' & '」' in 「 ... 」
         l.add_xpath('link_new', '//p/a[@class="new"]/text()', re='.{2,}')
-        #l.add_xpath('link_redr', '//a[@class="mw-redirect"]/text()')
+        l.add_xpath('link_redr', '//a[@class="mw-redirect"]/text()')
+        l.add_xpath('link_title', '//a[@title]/text()')
         
         # Housekeeping fields
         l.add_value('url', response.url)

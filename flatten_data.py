@@ -2,9 +2,10 @@
 import os
 import json
 
-os.system('cp data/dict.json docs/dict.json')
 with open("data/dict.json") as f:
     data = json.load(f)
+with open("docs/dict.json", "w") as f:
+    json.dump(data, f, ensure_ascii=False)
 
 #%%
 out = set()
@@ -14,7 +15,7 @@ for page in data:
         
         for item in items:
             item = item.strip()
-            if len(item) > 2:
+            if len(item) > 1:
                 out.add( (item, src) )
 out = sorted(out, reverse=True)
 
