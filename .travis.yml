@@ -1,17 +1,10 @@
 # R for travis: see documentation at https://docs.travis-ci.com/user/languages/r
-language: R
-sudo: required
-cache: packages
-dist: trusty
-pandoc_version: 1.19.2.1
+language: python
 before_install:
-  - sudo apt-get update
-  - sudo apt-get install python3
-  - sudo apt-get install python3-pip
-  - sudo pip3 install virtualenv
+  - pip install Scrapy
 
 script:
-  - bash render-PTTdict.sh
+  - bash run.sh
 
 # deploy
 deploy:
@@ -19,7 +12,7 @@ deploy:
     skip-cleanup: true
     github-token: $GH_TOKEN  # Set in travis-ci.org dashboard
     keep-history: true
-    local-dir: PTTdict/data/docs
+    local-dir: docs
     on:
       branch: master
 
