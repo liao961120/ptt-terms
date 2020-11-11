@@ -8,7 +8,7 @@ with open("docs/dict.json", "w") as f:
     json.dump(data, f, ensure_ascii=False)
 
 #%%
-out = set()
+out = {}
 for page in data:
     for src, items in page.items():
         if items is None or src == 'url' or src == 'date': continue
@@ -16,8 +16,8 @@ for page in data:
         for item in items:
             item = item.strip()
             if len(item) > 1:
-                out.add( (item, src) )
-out = sorted(out, reverse=True)
+            	out[item] = src
+out = sorted( ((item, src) for item, src in out.items()), reverse=True)
 
 
 #%%
