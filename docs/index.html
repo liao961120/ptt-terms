@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>批踢踢用語</title>
+    <!-- development version, includes helpful console warnings -->
+    <!-- <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script> -->
+    <!-- production version, optimized for size and speed -->
+    <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue-resource@1.5.1"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>PTT 用語</h1>
+
+        <h2 id="about">關於</h2>
+        <p>這裡提供<strong><a href="https://www.ptt.cc/bbs/">批踢踢</a>常見用語</strong>的查找與檔案。常見用語自 <a
+                href="http://zh.pttpedia.wikia.com/wiki/">PTT 鄉民百科</a> 爬取，有 4 種來源：</p>
+        <ol type="1">
+            <li>title: HTML <code>h1.page-header__title</code> 之下的文字</li>
+            <li>bold：HTML <code>b</code> (粗體)之下的文字</li>
+            <li>linknew：HTML <code>a.new</code> 之下的文字</li>
+            <li>bracket：<code>「</code>、<code>」</code> 之間的文字</li>
+        </ol>
+
+        <h2 id="資料下載與授權">資料下載</h2> 
+        <ul>
+            <li><a href="./dict.json"><code>dict.json</code></a>: 自網頁爬取的原始資料，內容最為豐富</li>
+            <li><a href="./ptt-terms.tsv"><code>ptt-terms.tsv</code></a>: 整理過後之資料，與此網頁上的資料相同</li>
+            <li><a href="https://github.com/liao961120/ptt-terms">原始碼</a> (GitHub)</li>
+        </ul>
+
+        <br>
+
+
+        <!-- Vue App -->
+        <div id="app">
+            <input type="text" placeholder='搜尋 (可用 "&&" 串連多個條件，e.g., "PTT && title")' v-model.lazy="search_filter">
+
+            <table>
+                <thead>
+                    <tr>
+                        <th>用語</th>
+                        <th>Source</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr v-for="row in filteredItems">
+                        <td>{{ row[0] }}</td>
+                        <td>{{ row[1] }}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <script>
+            var app = new Vue({
+                el: '#app',
+                data: {
+                    items: [],
+                    search_filter: '',
+                },
+                computed: {
+                    filteredItems: function () {
+                        if (this.search_filter.trim() == '') return this.items.slice(0, 10);
+                        
+                        var search_terms = this.search_filter.split('&&');
+
+                        return this.items.filter(item => {
+                            return search_terms.every( (elem) => item[0].includes(elem.trim()) | item[1].includes(elem.trim()) )
+                            //item[0].includes(this.search_filter) | item[1].includes(this.search_filter);
+                        });
+                    }
+                },
+                created() {
+                    this.$http.get('./ptt-terms.json').then(function (data) {
+                        this.items = data.body;
+                    });
+                },
+            })
+        </script>
+    </div>
+
+</body>
+
+</html>

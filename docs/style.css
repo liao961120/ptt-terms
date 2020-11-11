@@ -1,0 +1,57 @@
+.container {
+    display: block;
+    width: 65%;
+    margin: 15px auto;
+    padding: 5px auto;
+}
+h1 {
+    font-size: 1.7em;
+}
+h2 {
+    font-size: 1.3em;
+}
+code {
+    background: rgba(184, 184, 184, 0.404);
+    padding: 0.15em 0.3em;
+    border-radius: 5px;
+}
+
+#app {
+    display: block;
+    margin: 0 auto;
+    padding: 0 auto;
+    width: 100%;
+}
+
+input {
+    display: block;
+    width: 95%;
+    font-size: 1.1em;
+    margin: 2em 0.5em auto;
+    padding: 2px auto;
+}
+
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin: 10px 0;
+    padding: 5px 0;
+  }
+  
+  table td, table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  table tr:nth-child(even){background-color: #f2f2f2;}
+  
+  table tr:hover {background-color: #ddd;}
+  
+  table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+  }
