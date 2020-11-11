@@ -12,5 +12,5 @@ if [ -z "$delay" ]; then delay=0.7; fi
 
 scrapy crawl dict -s CLOSESPIDER_ITEMCOUNT=${counts} -s DOWNLOAD_DELAY=0${delay} -o ./data/dict.json
 
-cat ./data/dict.json | jq "." > view.json
+python3 flatten_data.py
 

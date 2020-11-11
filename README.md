@@ -1,49 +1,56 @@
+[![Build Status](https://travis-ci.org/liao961120/PTT-scrapy.svg?branch=master)](https://travis-ci.org/liao961120/PTT-scrapy)
 [![Support Python Version](https://img.shields.io/badge/Python-3.6-blue.svg)](https://www.python.org/)
 [![Support Scrapy Version](https://img.shields.io/badge/scrapy-1.5-orange.svg)](https://docs.scrapy.org/)
 
 
-# PTT Wiki & Web Crawler
-
-## Installation
-
-This project uses [virtualenv](https://virtualenv.pypa.io/en/stable/).
-
-Install **virtualenv**:
-```bash
-pip install virtualenv
-```
-
-Activate environment:
-```bash
-virtualenv -p python3 PTT-scrapy
-
-cd PTT-scrapy
-source bin/activate
-pip install scrapy
-```
+# PTT Wiki Crawler
 
 ## Scraping [PTT Wiki](http://zh.pttpedia.wikia.com/wiki/)
 
-See [`render-PTTdict.sh`](https://github.com/liao961120/PTT-scrapy/blob/master/render-PTTdict.sh) or [`PTTdict/`](https://github.com/liao961120/PTT-scrapy/tree/master/PTTdict) for details.
-
-
-## Scraping [PTT Web](https://www.ptt.cc/bbs/)
-
-To scrape posts from **[Gossiping](https://www.ptt.cc/bbs/Gossiping/)**:
 ```bash
-cd PTTweb
-scrapy crawl PTT -s CLOSESPIDER_ITEMCOUNT=50 -o ptt.jl
+bash run.sh 10 0.7
+# First para: number of items to scrape
+# Second para: time interval between requests (unit = sec)
 ```
 
-To view scraped data:
+## Construct Word List & Build Site
 ```bash
-cat ptt.jl | jq "." | less
+cd data
+Rscript dict_constr.R
+Rscript -e 'rmarkdown::render_site(encoding = "UTF-8")'
 ```
 
-To modify the spider:
-```bash
-vim PTTweb/spiders/PTT.py
-vim PTTweb/items.py
-```
+### Modification
 
+To modify the behavior of the spider,
+edit the files marked with `#` in the directory tree below.
+
+Directory structure of `PTTdict/`: 
+```
+.
+├── run.sh                # scrapy crawl parameters
+├── view.json             # Auto-generated (for viewing)
+├── scrapy.cfg
+├── setup.py
+│
+├── PTTdict
+│   ├── __init__.py
+│   ├── items.py          # Define item fields
+│   ├── middlewares.py
+│   ├── pipelines.py
+│   ├── postprocess
+│   │   ├── __pycache__/
+│   │   └── tidyup.py     # Process items before output
+│   ├── __pycache__/
+│   ├── settings.py       # Setting for item piplines
+│   └── spiders
+│       ├── dict.py       # Spider for scraping PTT wiki
+│       ├── __init__.py
+│       └── __pycache__/
+└── data
+    ├── dict_constr.R     # Filter & convert to data frame
+    ├── index.Rmd         # Build Web Site
+    ├── _site.yml
+    └── style.css
+```
 
