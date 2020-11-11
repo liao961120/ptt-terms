@@ -3,24 +3,8 @@
 [![Support Scrapy Version](https://img.shields.io/badge/scrapy-1.5-orange.svg)](https://docs.scrapy.org/)
 
 
-# PTT Wiki Crawler
 
-## Scraping [PTT Wiki](http://zh.pttpedia.wikia.com/wiki/)
-
-```bash
-bash run.sh 10 0.7
-# First para: number of items to scrape
-# Second para: time interval between requests (unit = sec)
-```
-
-## Construct Word List & Build Site
-```bash
-cd data
-Rscript dict_constr.R
-Rscript -e 'rmarkdown::render_site(encoding = "UTF-8")'
-```
-
-### Modification
+## Modification
 
 To modify the behavior of the spider,
 edit the files marked with `#` in the directory tree below.
