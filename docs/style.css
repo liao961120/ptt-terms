@@ -72,9 +72,10 @@ color: white;
     border: none;
     border-radius: 0.3em;
     color: white;
-    width: 1.45em;
-    height: 1.45em;
+    width: 1.5em;
+    height: 1.5em;
     text-align: center;
+    margin: 0.1em;
     padding: 0;
 }
 .scroll button:hover {
