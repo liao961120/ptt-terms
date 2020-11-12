@@ -30,13 +30,14 @@ for page in data:
                 if item not in out:
                     out[item] = { 
                         'category': [cat],
-                        'src': url
+                        'src': [url]
                     }
                 else:
                     out[item]['category'].append(cat)
+                    out[item]['src'].append(url)
 
 
-out = sorted( ((item, ', '.join(set(d['category'])), d['src']) for item, d in out.items()), reverse=True)
+out = sorted( ((item, ', '.join(set(d['category'])), list(set(d['src'])) ) for item, d in out.items()), reverse=True)
 
 
 #%%

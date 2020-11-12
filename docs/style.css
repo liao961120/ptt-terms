@@ -46,16 +46,33 @@ border: 1px solid #ddd;
 padding: 8px;
 }
 
-table tr:nth-child(even){background-color: #f2f2f2;}
+table tr:nth-child(even){background-color: #f8f8f898;}
 
-table tr:hover {background-color: #ddd;}
+table tr:hover {background-color: rgba(233, 233, 233, 0.692);}
 
 table th {
-padding-top: 12px;
-padding-bottom: 12px;
-text-align: left;
-background-color: #4CAF50;
-color: white;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: rgb(93, 93, 93);
+    color: white;
+}
+.page-lnk {
+    display: inline-block;
+    font-size: 0.8em;
+    margin: 0.2em 0.25em;
+    padding: 0.05em 0.15em;
+    border-radius: 0.3em;
+    text-decoration: none;
+    background: rgba(255, 192, 192, 0.24);
+    color: rgb(255, 67, 98);
+}
+.page-lnk:hover {
+    text-decoration: underline;
+    background: white;
+}
+.page-lnk:visited {
+    color: rgb(255, 67, 98);
 }
 
 .scroll {
@@ -94,6 +111,7 @@ color: white;
     color: rgba(82, 82, 82, 0.904);
     font-size: 0.85em;
 }
+
 html {
     scroll-behavior: smooth;
 }

@@ -49,7 +49,7 @@
                     <tr>
                         <th>用語</th>
                         <th>類別</th>
-                        <th>來源頁面</th>
+                        <th>來源</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -57,7 +57,11 @@
                         <td>{{ row[0] }}</td>
                         <td>{{ row[1] }}</td>
                         <td>
-                            <a :href="row[2]" target="_blank">{{ decodeURIComponent(row[2].split('/').pop()) }}</a>
+                            <template v-for="(lnk, i) in row[2]">
+                                <a :href="lnk" target="_blank" class="page-lnk">{{ decodeURIComponent(lnk.split('wiki/').pop()) }}</a>
+
+                                <!-- <template v-if="i + 1 < row[2].length">; </template> -->
+                            </template>
                         </td>
                     </tr>
                 </tbody>
