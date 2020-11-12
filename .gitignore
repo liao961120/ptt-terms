@@ -8,3 +8,4 @@
 view.json
 scrapinghub.yml
 dict.rds
+__pycache__
