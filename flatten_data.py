@@ -50,4 +50,4 @@ with open("docs/ptt-terms.json", "w") as f:
 with open("docs/ptt-terms.tsv", "w") as f:
     f.write('item\tcategory\tsrc\n')
     for item, category, src in out:
-        f.write(f'{item}\t{category}\t{src}\n')
+        f.write(f'{item}\t{category}\t{", ".join(src)}\n')
