@@ -19,23 +19,26 @@
 
         <h2 id="about">關於</h2>
         <p>這裡提供<strong><a href="https://www.ptt.cc/bbs/">批踢踢</a>常見用語</strong>的查找與檔案。常見用語自 <a
-                href="http://zh.pttpedia.wikia.com/wiki/">PTT 鄉民百科</a> 爬取，有 4 種來源：</p>
+                href="http://zh.pttpedia.wikia.com/wiki/">PTT 鄉民百科</a> 爬取，有 5 種類別：</p>
         <ol type="1">
             <li>title: HTML <code>h1.page-header__title</code> 之下的文字</li>
             <li>bold：HTML <code>b</code> (粗體)之下的文字</li>
-            <li>linknew：HTML <code>a.new</code> 之下的文字</li>
+            <li>link_title：含有 <code>title</code> attribute 的 a tag</li>
+            <li>link_new：HTML <code>a.new</code> 之下的文字</li>
             <li>bracket：<code>「</code>、<code>」</code> 之間的文字</li>
         </ol>
 
-        <h2 id="資料下載與授權">資料下載</h2> 
+        <h2 id="資料下載與授權">資料下載</h2>
         <ul>
             <li><a href="./dict.json"><code>dict.json</code></a>: 自網頁爬取的原始資料，內容最為豐富</li>
             <li><a href="./ptt-terms.tsv"><code>ptt-terms.tsv</code></a>: 整理過後之資料，與此網頁上的資料相同</li>
             <li><a href="https://github.com/liao961120/ptt-terms">原始碼</a> (GitHub)</li>
         </ul>
 
-        <br>
-
+        <div class="scroll">
+            <button onclick="window.scrollTo(0, 0);">▲</button>
+            <button onclick="window.scrollTo(0, document.body.scrollHeight);">▼</button>
+        </div>
 
         <!-- Vue App -->
         <div id="app">
@@ -45,16 +48,22 @@
                 <thead>
                     <tr>
                         <th>用語</th>
-                        <th>Source</th>
+                        <th>類別</th>
+                        <th>來源頁面</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr v-for="row in filteredItems">
                         <td>{{ row[0] }}</td>
                         <td>{{ row[1] }}</td>
+                        <td>
+                            <a :href="row[2]" target="_blank">{{ decodeURIComponent(row[2].split('/').pop()) }}</a>
+                        </td>
                     </tr>
                 </tbody>
             </table>
+
+            <span class="last-updated">{{ last_updated }}</span>
         </div>
 
         <script>
@@ -63,24 +72,46 @@
                 data: {
                     items: [],
                     search_filter: '',
+                    last_updated: '',
+                    display_num: 12,
+                    show_more: 8,
                 },
                 computed: {
                     filteredItems: function () {
-                        if (this.search_filter.trim() == '') return this.items.slice(0, 10);
-                        
+                        if (this.search_filter.trim() == '') return this.items.slice(0, this.display_num);
+
                         var search_terms = this.search_filter.split('&&');
 
                         return this.items.filter(item => {
-                            return search_terms.every( (elem) => item[0].includes(elem.trim()) | item[1].includes(elem.trim()) )
+                            return search_terms.every((elem) => item[0].includes(elem.trim()) | item[1].includes(elem.trim()))
                             //item[0].includes(this.search_filter) | item[1].includes(this.search_filter);
                         });
                     }
                 },
+                methods: {
+                    scroll() {
+                        window.onscroll = () => {
+                            if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
+                                console.log('at bottom')
+                                this.display_num += this.show_more
+                            }
+                        }
+                    }
+                },
                 created() {
+                    // Get ptt terms data
                     this.$http.get('./ptt-terms.json').then(function (data) {
                         this.items = data.body;
                     });
+
+                    // Get last update info
+                    this.$http.get('last-updated.json').then(function (data) {
+                        this.last_updated = data.body[0];
+                    });
                 },
+                mounted() {
+                    this.scroll()
+                }
             })
         </script>
     </div>
