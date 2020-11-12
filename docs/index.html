@@ -30,8 +30,8 @@
 
         <h2 id="資料下載與授權">資料下載</h2>
         <ul>
-            <li><a href="https://raw.githubusercontent.com/liao961120/ptt-terms/data/data/dict.json"><code>dict.json</code></a>: 自網頁爬取的原始資料，內容最為豐富</li>
-            <li><a href="https://raw.githubusercontent.com/liao961120/ptt-terms/data/data/ptt-terms.tsv"><code>ptt-terms.tsv</code></a>: 整理過後之資料，與此網頁上的資料相同</li>
+            <li><a href="https://raw.githubusercontent.com/liao961120/ptt-terms/data/dict.json"><code>dict.json</code></a>: 自網頁爬取的原始資料，內容最為豐富</li>
+            <li><a href="https://raw.githubusercontent.com/liao961120/ptt-terms/data/ptt-terms.tsv"><code>ptt-terms.tsv</code></a>: 整理過後之資料，與此網頁上的資料相同</li>
             <li><a href="https://github.com/liao961120/ptt-terms">原始碼</a> (GitHub)</li>
         </ul>
 
@@ -105,12 +105,12 @@
                 created() {
                     // Get ptt terms data
                     
-                    this.$http.get('https://raw.githubusercontent.com/liao961120/ptt-terms/data/data/ptt-terms.json').then(function (data) {
+                    this.$http.get('https://raw.githubusercontent.com/liao961120/ptt-terms/data/ptt-terms.json').then(function (data) {
                         this.items = data.body;
                     });
 
                     // Get last update info
-                    this.$http.get('https://raw.githubusercontent.com/liao961120/ptt-terms/data/data/last-updated.json').then(function (data) {
+                    this.$http.get('https://raw.githubusercontent.com/liao961120/ptt-terms/data/last-updated.json').then(function (data) {
                         this.last_updated = data.body[0];
                     });
                 },
