@@ -29,14 +29,14 @@ for page in data:
             if len(item) > 1:
                 if item not in out:
                     out[item] = { 
-                        'category': cat,
+                        'category': [cat],
                         'src': url
                     }
                 else:
-                    out[item]['category'] += f', {cat}'
+                    out[item]['category'].append(cat)
 
 
-out = sorted( ((item, d['category'], d['src']) for item, d in out.items()), reverse=True)
+out = sorted( ((item, ', '.join(set(d['category'])), d['src']) for item, d in out.items()), reverse=True)
 
 
 #%%
