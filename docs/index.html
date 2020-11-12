@@ -30,8 +30,12 @@
 
         <h2 id="資料下載與授權">資料下載</h2>
         <ul>
-            <li><a href="https://raw.githubusercontent.com/liao961120/ptt-terms/data/dict.json"><code>dict.json</code></a>: 自網頁爬取的原始資料，內容最為豐富</li>
-            <li><a href="https://raw.githubusercontent.com/liao961120/ptt-terms/data/ptt-terms.tsv"><code>ptt-terms.tsv</code></a>: 整理過後之資料，與此網頁上的資料相同</li>
+            <li><a
+                    href="https://raw.githubusercontent.com/liao961120/ptt-terms/data/dict.json"><code>dict.json</code></a>:
+                自網頁爬取的原始資料，內容最為豐富</li>
+            <li><a
+                    href="https://raw.githubusercontent.com/liao961120/ptt-terms/data/ptt-terms.tsv"><code>ptt-terms.tsv</code></a>:
+                整理過後之資料，與此網頁上的資料相同</li>
             <li><a href="https://github.com/liao961120/ptt-terms">原始碼</a> (GitHub)</li>
         </ul>
 
@@ -47,9 +51,7 @@
             <table>
                 <thead>
                     <tr>
-                        <th>用語</th>
-                        <th>類別</th>
-                        <th>來源</th>
+                        <th>用語</th><th>類別</th><th>來源</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -57,11 +59,8 @@
                         <td>{{ row[0] }}</td>
                         <td>{{ row[1] }}</td>
                         <td>
-                            <template v-for="(lnk, i) in row[2]">
-                                <a :href="lnk" target="_blank" class="page-lnk">{{ decodeURIComponent(lnk.split('wiki/').pop()) }}</a>
-
-                                <!-- <template v-if="i + 1 < row[2].length">; </template> -->
-                            </template>
+                            <a v-for="(lnk, i) in row[2]" :href="lnk" target="_blank"
+                                class="page-lnk">{{ decodeURIComponent(lnk.split('wiki/').pop()) }}</a>
                         </td>
                     </tr>
                 </tbody>
@@ -79,6 +78,10 @@
                     last_updated: '',
                     display_num: 12,
                     show_more: 8,
+                    json: {
+                        terms: 'https://raw.githubusercontent.com/liao961120/ptt-terms/data/ptt-terms.json',
+                        update_time: 'https://raw.githubusercontent.com/liao961120/ptt-terms/data/last-updated.json',
+                    }
                 },
                 computed: {
                     filteredItems: function () {
@@ -104,13 +107,12 @@
                 },
                 created() {
                     // Get ptt terms data
-                    
-                    this.$http.get('https://raw.githubusercontent.com/liao961120/ptt-terms/data/ptt-terms.json').then(function (data) {
+                    this.$http.get(this.json.terms).then(function (data) {
                         this.items = data.body;
                     });
 
                     // Get last update info
-                    this.$http.get('https://raw.githubusercontent.com/liao961120/ptt-terms/data/last-updated.json').then(function (data) {
+                    this.$http.get(this.json.update_time).then(function (data) {
                         this.last_updated = data.body[0];
                     });
                 },
