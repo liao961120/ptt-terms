@@ -49,6 +49,11 @@
             <input type="text" placeholder='搜尋 (可用 "&&" 串連多個條件，e.g., "PTT && title")' v-model.lazy="search_filter">
 
             <table>
+                <colgroup>
+                    <col style="width: 40%" />
+                    <col style="width: 25%" />
+                    <col style="width: 35%" />
+                  </colgroup>
                 <thead>
                     <tr>
                         <th>用語</th><th>類別</th><th>來源</th>
@@ -67,6 +72,8 @@
             </table>
 
             <span class="last-updated">{{ last_updated }}</span>
+            <span class="result-num" v-if="search_filter">{{ resultNum }}</span>
+            <span class="result-num" v-else>{{ items.length }}</span>
         </div>
 
         <script>
@@ -91,15 +98,16 @@
 
                         return this.items.filter(item => {
                             return search_terms.every((elem) => item[0].includes(elem.trim()) | item[1].includes(elem.trim()))
-                            //item[0].includes(this.search_filter) | item[1].includes(this.search_filter);
                         });
+                    },
+                    resultNum: function() {
+                        return this.filteredItems.length;
                     }
                 },
                 methods: {
                     scroll() {
                         window.onscroll = () => {
                             if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
-                                console.log('at bottom')
                                 this.display_num += this.show_more
                             }
                         }

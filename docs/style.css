@@ -37,6 +37,7 @@ table {
     font-family: Arial, Helvetica, sans-serif;
     border-collapse: collapse;
     width: 100%;
+    table-layout: fixed;
     margin: 10px 0 45px;
     padding: 5px 0;
 }
@@ -99,10 +100,22 @@ table th {
     background: rgba(0, 0, 0, 0.808);
 }
 
-.last-updated {
+.result-num {
     position: fixed;
     left: 0.5%;
     bottom: 1%;
+    font-size: 0.8em;
+    color:rgb(255, 67, 98);
+}
+.result-num::before {
+    content: "筆數: ";
+    color: rgba(82, 82, 82, 0.904);
+    font-size: 0.85em;
+}
+.last-updated {
+    position: fixed;
+    right: 0.5%;
+    top: 1%;
     font-size: 0.65em;
     color: rgb(58, 58, 58);
 }
