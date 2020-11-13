@@ -8,9 +8,10 @@ from scrapy.spiders import CrawlSpider, Rule
 from urllib.parse import urlparse, urljoin
 from PTTdict.items import PropertiesItem
 
+DENY_URLs = [r'\?veaction=edit', r'\?action=edit', r'/zh/wiki/%E7%89%B9%E6%AE%8A:', r'/zh/wiki/%E5%88%86%E9%A1%9E:']
 
 class DictSpider(CrawlSpider):
-    name = 'dict'
+    name = 'first_crawl'
     allowed_domains = ['pttpedia.fandom.com']
     start_urls = [
         'https://pttpedia.fandom.com/zh/wiki/%E5%88%86%E9%A1%9E:PTT%E6%B5%81%E8%A1%8C%E7%94%A8%E8%AA%9E',  # 流行用語
@@ -32,17 +33,17 @@ class DictSpider(CrawlSpider):
     # Rules for Horizontal & vertical crawling
     rules = (
         Rule(LinkExtractor(restrict_css='.category-page__pagination-next',
-                           deny='/zh/wiki/%E7%89%B9%E6%AE%8A:%E6%90%9C%E5%B0%8B')),  # horizontal
+                           deny=DENY_URLs)),  # horizontal
         Rule(LinkExtractor(restrict_css='.category-page__member-link',
-                           deny='/zh/wiki/%E7%89%B9%E6%AE%8A:%E6%90%9C%E5%B0%8B'), callback='parse_item'),  # vertical
+                           deny=DENY_URLs), callback='parse_item'),  # vertical
         Rule(LinkExtractor(restrict_css='.mw-redirect',
-                           deny='/zh/wiki/%E7%89%B9%E6%AE%8A:%E6%90%9C%E5%B0%8B'), callback='parse_item'),
+                           deny=DENY_URLs), callback='parse_item'),
         Rule(LinkExtractor(restrict_xpaths='//a[@title]',
-                           deny='/zh/wiki/%E7%89%B9%E6%AE%8A:%E6%90%9C%E5%B0%8B'), callback='parse_item'),
+                           deny=DENY_URLs), callback='parse_item'),
     )
 
-    # Scraping an individual page
 
+    # Scraping an individual page
     def parse_item(self, response):
         # Parse this page
         l = ItemLoader(item=PropertiesItem(), response=response)
@@ -57,5 +58,12 @@ class DictSpider(CrawlSpider):
         # Housekeeping fields
         l.add_value('url', response.url)
         l.add_value('date', datetime.datetime.now())
+
+        # Save extracted links
+        links = LinkExtractor(restrict_xpaths=['//a[@class="mw-redirect"]', '//a[@title]'], deny=DENY_URLs).extract_links(response)
+        with open('extracted_links.txt', 'a') as f:
+            for link in links:
+                if 'pttpedia.fandom.com' in link.url:
+                    f.write(link.url + '\n')
 
         return l.load_item()
