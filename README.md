@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/liao961120/PTT-scrapy.svg?branch=master)](https://travis-ci.org/liao961120/PTT-scrapy)
+[![Build Status](https://travis-ci.org/liao961120/ptt-terms.svg?branch=master)](https://travis-ci.org/liao961120/ptt-terms)
 [![Support Python Version](https://img.shields.io/badge/Python-3.6-blue.svg)](https://www.python.org/)
 [![Support Scrapy Version](https://img.shields.io/badge/scrapy-1.5-orange.svg)](https://docs.scrapy.org/)
 
